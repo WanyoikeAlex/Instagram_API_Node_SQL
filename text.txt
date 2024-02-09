@@ -3,3 +3,9 @@ set DATABASE_URL=postgres://postgres:password@localhost5432/socialnetwork&& npm 
 
 Windows with Bash
 DATABASE_URL=postgres://postgres:password@localhost5432/socialnetwork npm run migrate up
+
+windows with CMD
+set DATABASE_URL=postgres://postgres:password@localhost5432/socialnetwork&& npm run migrate up
+
+Windows with Bash
+DATABASE_URL=postgres://postgres:password@localhost5432/socialnetwork npm run migrate up
